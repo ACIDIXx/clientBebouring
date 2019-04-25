@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\5661e96f93ba8571a67bb12b39539c5efd672d3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_06418c6e4f5a97faa3469394dc68cb6c1ff209cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\18c187fee2fdb26b4c2b14bbd0d2333d8189b1cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_07d9ad206ee3b059e38de70a914e3b7bb118ea38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\9a0864ffc472efae287e0005bddad1f28126720b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_a9a7adc1cfac7a64f190ddff8282abfeafd21028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\b2f57260b2d8f2194a2ea5e7ce0e94cdfecfde5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_8f997e41327d1b17a856880937360b8e57ff3de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\796dfdbeff894e72d772ad025604962b9b8b955e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_bb83b3d586b690c109e123ba4fb17715a74a4a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\24c9eceb76b7d2ffd917a7f410017ce6aa63de6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_067d4571baff6bf3f62c9c4e475dacd606a849d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\899ccca0cb00a7c94cfe4d0c46483238e5776bf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_8cbe05f1e3b060842d574d2c789100689c18b04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4b2986d9210643c83448a82be16fd18e9c6837ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\7effd7fb47c16075ee00329771007f1d8eaf9643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_5a592b429c09be4f3808bfc25e20e928856bc848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\7424ad68e9e3e08d612cf8755446dc6f90594090\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_68f03d37c3e548dd04cefc4bd2191a7c7e600c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\037a50b96b55d27ec747487fc8138e0bcc5b3add\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_a1bd6524f42215de3ec07f769f1db91918618e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\bee18bbcfd45ece57bb14bc7450b8fd9ef7ab927\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_72bcd15b8628c6c294e7b1453db937c6174c3c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e0393489eb9d613040a25f29cebd92c395d529a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\5589dae247adfae495da9bcd9fdc24c57951882c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_2e4697a46e80f3f8a14facf677e3ca8b1c8ec745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acidix\.android\build-cache\fe3be17f4666dbe40d4d7e3a0c097d908972027c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Acidix\Desktop\BebouRing\app\build\intermediates\pre-dexed\debug\classes_e39b9d2ba58126aa3eb01e5efd67eb499af23ade.jar" />
+    </item>
+
+</items>
